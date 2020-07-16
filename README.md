@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Imgur](https://i.imgur.com/JyJP19j.jpg)
+![Imgur](https://i.imgur.com/9TeaWBG.jpg)
