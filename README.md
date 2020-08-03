@@ -1,6 +1,6 @@
 <h2>
   <img align="right" src="https://raw.githubusercontent.com/AlexBHdez/alexbhdez/master/readme-image-profile.png" width="200">
-  Sup⌑
+  Sup ⌑
 </h2>
 <p>I'm  a software engineer and i  focus on UI architecture.</p>
 
