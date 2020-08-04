@@ -1,6 +1,6 @@
 <h2>
   <img align="right" src="https://user-images.githubusercontent.com/14848156/89220832-eb91a900-d5da-11ea-936d-7a54a3641782.png" width="200">
- Aloha! ⌑ 
+Hi there 👋 
 </h2>
 <p>I'm  a software engineer and i  focus on UI architecture.</p>
 <p>If you've found any of my open-source work helpful, please drop me a line on  [twitter][] or shoot me an email (geobde at gmail dot com).</p>
