@@ -3,7 +3,7 @@
 Hi there 👋 
 </h2>
 <p>I'm  a software engineer and i  focus on UI architecture.</p>
-<p>If you've found any of my open-source work helpful, please drop me a line on  [twitter](c) or shoot me an email (geobde at gmail dot com).</p>
+<p>If you've found any of my open-source work helpful, please drop me a line on  [![twitter](https://twitter.com/geobde) or shoot me an email (geobde at gmail dot com).</p>
 
 [![Linkedin: geobde](https://img.shields.io/badge/-geobde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geobde/)](https://www.linkedin.com/in/geobde/)
 [![Twitter: geobde](https://img.shields.io/badge/-geobde-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/geobde/)](https://www.twitter.com/geobde/)
