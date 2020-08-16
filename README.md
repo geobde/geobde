@@ -6,6 +6,7 @@ Hi there 👋
 
 [![Linkedin: geobde](https://img.shields.io/badge/-geobde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geobde/)](https://www.linkedin.com/in/geobde/)
 [![Twitter: geobde](https://img.shields.io/badge/-geobde-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/geobde/)](https://www.twitter.com/geobde/)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=geobde.geobde)
 
 🥂 Cheers!
 
