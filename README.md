@@ -2,7 +2,7 @@
 
 ### Hi there 👋
  
-Frontend Engineer based in Greece & focus on UI architecture.
+Software Engineer based in Greece & focus on UI architecture.
 
 [![Linkedin: geobde](https://img.shields.io/badge/-geobde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geobde/)](https://www.linkedin.com/in/geobde/)
 [![Twitter: geobde](https://img.shields.io/badge/-geobde-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/geobde/)](https://www.twitter.com/geobde/)
