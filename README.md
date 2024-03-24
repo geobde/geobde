@@ -1,2 +1,3 @@
-Hey! 👋🏼 I'm George
+# Hey! 👋🏼  I'm George 
+
 Software Engineer specializing in Javascript & Web Performance.
