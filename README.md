@@ -1,3 +1,3 @@
-# Hey! 👋🏼  I'm George 
+# Hey!  I'm George 
 
 Crafting interfaces.
